@@ -19,6 +19,13 @@ This project focuses on extracting meaningful insights from relational databases
 * `queries.sql`: Contains the full technical implementation of the analysis.
 * `README.md`: Project documentation and summary of findings.
 
+* ### 📂 Excel Data Cleaning Project
+**Objective:** To transform a raw, inconsistent dataset into a standardized format ready for analysis.
+**Techniques Used:**
+* **Data Scrubbing:** Utilized `TRIM()` and `PROPER()` functions to fix formatting errors.
+* **Data Integrity:** Applied 'Remove Duplicates' to eliminate redundant entries.
+* **Standardization:** Used 'Find & Replace' to unify inconsistent categorical data (e.g., standardizing city names).
+
 ---
 **Author:** Alok Vishwakarma  
 *Aspiring Data Analyst committed to turning raw data into strategic business decisions.*
