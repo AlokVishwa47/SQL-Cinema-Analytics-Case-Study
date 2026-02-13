@@ -35,6 +35,13 @@ I have transitioned from data retrieval to full-scale **Database Management**. M
 * **Data Cleaning via SQL:** Using conditional filtering to ensure only high-quality data is processed for analysis.
 
 ---
+## 🎬 Project: Cinema Data Intelligence Analysis
+**Objective:** To analyze movie performance and audience engagement by connecting multiple relational datasets.
+
+**Key Analytical Tasks Performed:**
+1. **Performance Tracking:** Used `INNER JOIN` to merge Movie details with Box Office collections to identify the highest ROI films.
+2. **Missing Data Audit:** Applied `LEFT JOIN` and `IS NULL` logic to find movies that haven't been rated or haven't reported revenue.
+3. **Profit Analysis:** Created SQL Expressions to calculate 'Domestic vs International' revenue ratios.
 ---
 **Author:** Alok Vishwakarma  
 *Aspiring Data Analyst committed to turning raw data into strategic business decisions.*
